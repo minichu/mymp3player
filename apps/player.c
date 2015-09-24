@@ -11,4 +11,6 @@ void main()
 	printf("hackathon! burning!!\n");
 
 	printf("I want go to home\n");
+	foo2();
+	printf("GO PRAGUE\n");
 }
