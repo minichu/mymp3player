@@ -8,6 +8,6 @@ void main()
 	foo1();
 	foo2();
 	printf("hackathon! burning!!\n");
-
+	foo1();
 	printf("GO PRAGUE\n");
 }
