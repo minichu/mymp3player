@@ -9,8 +9,6 @@ void main()
 	foo2();
 	foo1();
 	printf("hackathon! burning!!\n");
-
-	printf("I want go to home\n");
 	foo2();
 	printf("GO PRAGUE\n");
 }
