@@ -7,5 +7,6 @@ void main()
 	foo2();
 	foo1();
 
-	printf("Daegu");
+	printf("Daegu\n");
+	printf("hackathon! burning!!\n");
 }
