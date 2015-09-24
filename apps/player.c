@@ -4,7 +4,7 @@
 
 void main()
 {
-	printf("hello world!\n");
+	printf("hhello world!\n");
 	foo1();
 	foo2();
 	printf("hackathon! burning!!\n");
