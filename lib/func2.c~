@@ -1,0 +1,7 @@
+#include <stdio.h>
+#include "~/150923_make/3/include/func2.h"
+
+void foo2()
+{
+	printf("jiwon\n");
+}
