@@ -4,9 +4,9 @@
 
 void main()
 {
+	printf("hello world!");
+	foo1();
 	foo2();
 	foo1();
-
-	printf("Daegu\n");
 	printf("hackathon! burning!!\n");
 }
